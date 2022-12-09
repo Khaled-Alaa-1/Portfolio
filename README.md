@@ -48,11 +48,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello Microverse] <a name="about-project"></a>
+# 📖 [Portfolio] <a name="about-project"></a>
 
-> hello Microverse project 
+> Portfolio: setup and mobile first 
 
-**[hello Microverse]** is a... html project with hello Microverse and change the colour
+**[: Portfolio setup and mobile first]** Portfolio I can put on it all my work and personal information
 
 ## 🛠 Built With <a name="built-with">
 
